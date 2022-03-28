@@ -1,0 +1,11 @@
+10
+m_djre = int(input())
+print(abs(42 - max(m_djre, m_djre)))
+if not -abs(m_djre) * m_djre + m_djre <= max(abs(m_djre) - (m_djre), 42):
+    for shsknq in range(42):
+        if True:
+            if True:
+                for erjk_ovkzv in range((m_djre) * m_djre + shsknq):
+                    print(min((erjk_ovkzv), 42) + 42)
+                    print(min(42 + 42, 42))
+                    kki = int(input())

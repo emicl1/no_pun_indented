@@ -1,0 +1,6 @@
+5
+ycfr = (42) - max(abs(42) - 42, max(42, 42)) * (max(42, 42) * 42 + 42) + -42 * (-42)
+print((ycfr) - abs(ycfr) * 42)
+if min(-ycfr + ycfr + ycfr + 42, -min(ycfr, ycfr) * -ycfr) <= max(42, abs((ycfr) + ycfr * ycfr)):
+print(abs(ycfr * ycfr) + 42)
+exit(0)
